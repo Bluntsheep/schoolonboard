@@ -174,7 +174,7 @@ const LoginPage = () => {
           {/* Footer Links */}
           <div className="text-center mt-8 space-y-4">
             <p className="text-slate-400 text-sm">
-              Don't have an account?{" "}
+              {"Don't have an account?"}
               <button className="text-blue-400 hover:text-blue-300 font-medium transition-colors duration-200">
                 Contact Administrator
               </button>
